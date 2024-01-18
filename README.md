@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/Rjdp24)
 <h1 align="center">Hi 👋, I'm Rajdeep Aich</h1>
 <h3 align="center">A passionate tech enthusiast and aspiring software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
