@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/Rjdp24)
 <h1 align="center">Hi 👋, I'm Rajdeep Aich</h1>
-<h3 align="center">A passionate tech enthusiast and aspiring software developer from India</h3>
+<h3 align="center">A passionate tech enthusiast and aspiring software developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjdp24&label=Profile%20views&color=0e75b6&style=flat" alt="rjdp24" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rjdp24?tab=repositories](https://github.com/Rjdp24?tab=repositories)
+- 👨‍💻 All of my projects are available at [Rjdp_24](https://github.com/Rjdp24?tab=repositories)
 
 - 💬 Ask me about **C, C++, HTML, CSS, PHP, MySql**
 
