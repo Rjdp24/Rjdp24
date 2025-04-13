@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjdp24&label=Profile%20views&color=0e75b6&style=flat" alt="rjdp24" /> </p>
 
-- 🔭 I’m currently working on [Computer Based Voting System](https://github.com/Rjdp24/Com-Based-Voting-System)
+- 🔭 I’m currently working on [Student Performance Prediction](https://github.com/Rjdp24/Student-performance-prediction)
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning **Three JS, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [Rjdp_24](https://github.com/Rjdp24?tab=repositories)
 
-- 💬 Ask me about **C, C++, HTML, CSS, PHP, MySql**
+- 💬 Ask me about **C, C++, HTML, CSS, PHP, MySql, React, Javascript**
 
 - 📫 How to reach me **rickaich24@gmail.com**
 
